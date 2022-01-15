@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aayush498
+- 👋 Hi, I’m Aayush Jha
 - 👀 I’m interested in learning new things.I am an absolute newbie here
 - 🌱 I’m currently learning programming in c and c++.
 - 💞️ I’m looking to collaborate on ...
